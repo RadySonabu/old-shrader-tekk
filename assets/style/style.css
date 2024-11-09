@@ -1659,6 +1659,9 @@ textarea.input {
 }
 
 @media screen and (max-width: 550px) {
+  .header-text .header-img {
+    width: 350px;
+  }
   .wrapper-custom-slider .unique-carousel {
     grid-auto-columns: 100%;
   }
